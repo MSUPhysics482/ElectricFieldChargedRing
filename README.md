@@ -1,5 +1,5 @@
 # Electric Field Charged Ring
-*Starter Code for MSU Physics 482 Homework 2 Question N*
+*Starter Code for a question on MSU Physics 482 Homework 2*
 
 The Jupyter notebook will compute the electric field of a charged ring along its central axis. Your job is to modify this code to investigate the profile of the electric field inside a wire. Recall that the excess charge on the surface of the wire generates the electric field that moves charges in the wire. This charge distribution is gradated (i.e., it slowly changes sign as you move from the anode to cathode).
 
